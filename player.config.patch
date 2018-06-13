@@ -1,0 +1,9 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/cat", "value" : [ "protectorate1", "protectorate2", "catdiary" ] },
+
+  {
+    "op": "replace",
+    "path": "/statusControllerSettings/stats/fallDamageMultiplier/baseValue",
+    "value": 0.75
+  }
+]

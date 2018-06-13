@@ -1,0 +1,9 @@
+{
+  "name" : "catreducedfalldamage",
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "catreducedfalldamage.lua"
+  ]
+}

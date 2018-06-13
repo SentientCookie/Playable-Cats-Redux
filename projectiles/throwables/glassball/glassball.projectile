@@ -1,0 +1,22 @@
+{
+  "projectileName" : "glassball",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "image" : "glassball.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "emitters" : [ "tarball" ],
+  "power" : 5.0,
+  "speed" : 32,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/glassexplosion/glassexplosion.config"
+    }
+  ],
+  "damageKind" : "bow"
+  // "damageKindImage" : "/interface/statuses/tar.png",
+ // "statusEffects" : [
+ //   "tarslow"
+ // ]
+}

@@ -1,0 +1,8 @@
+[
+	{ "op" : "add",
+		"path" : "/catDescription",
+		"value" : 
+"Meow? This newspaper's print is pretty big. It has some scary stuff written in it."
+		
+	}
+]

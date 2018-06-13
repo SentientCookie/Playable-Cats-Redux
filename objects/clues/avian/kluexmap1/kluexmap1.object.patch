@@ -1,0 +1,8 @@
+[
+	{ "op" : "add",
+		"path" : "/catDescription",
+		"value" : 
+"Meow! This map looks like it's telling where treasure can be found!"
+		
+	}
+]

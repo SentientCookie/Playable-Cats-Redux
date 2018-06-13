@@ -1,0 +1,35 @@
+{
+  "itemName" : "veluusword3",
+  "price" : 480,
+  "level" : 8,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "A sword to be wielded telepathically.",
+  "shortdescription" : "Stronger Vel'uuish's Shortsword",
+  "tooltipKind" : "sword",
+  "category" : "shortsword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","shortsword"],
+
+  "inventoryIcon" : "veluusword3.png",
+
+  "animation" : "/items/active/weapons/melee/shortsword/comboshortsword.animation",
+  "animationParts" : {
+    "handle": "veluusword3.png",
+	"handleFullbright" : "veluusword3fullbright.png",
+	"blade" : ""
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "shortswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.625,
+    "baseDps" : 5.0
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

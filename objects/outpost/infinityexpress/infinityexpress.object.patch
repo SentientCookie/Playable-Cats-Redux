@@ -1,0 +1,6 @@
+[ {
+"op" : "add",
+"path" : "/interactData/items/-",
+"value" : { "item" : "pethouserolliepollie" }
+}
+ ]

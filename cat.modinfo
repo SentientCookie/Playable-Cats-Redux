@@ -1,0 +1,11 @@
+{
+	"name": "Race cat",
+	"path": ".",
+	"version": "1",
+	"metadata": {
+		"displayName": "Race cat",
+		"author": "Razi",
+		"version": "1",
+		"description": "A race mod for a cat"
+	}
+}

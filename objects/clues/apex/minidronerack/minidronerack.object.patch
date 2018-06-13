@@ -1,0 +1,8 @@
+[
+	{ "op" : "add",
+		"path" : "/catDescription",
+		"value" : 
+"Meow? This mewchine seems to be showing data from some kind of robot."
+		
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{ "op" : "add",
+		"path" : "/catDescription",
+		"value" : 
+"Meow. Even cats can equip techs. I want to try!"
+		
+	}
+]

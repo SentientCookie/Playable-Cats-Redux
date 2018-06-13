@@ -1,0 +1,4 @@
+[
+{"op":"add","path":"/npctypes/-","value":{"type":"catvisitor","species":["cat"]}},
+{"op":"add","path":"/npctypes/-","value":{"type":"catvisitor","species":["cat"]}}
+]
