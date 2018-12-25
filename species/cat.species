@@ -20,7 +20,7 @@
   "humanoidConfig" : "/species/catoid.config",
   "nameGen" : [ "/species/catnamegen.config:names", "/species/catnamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/cathurt_male.ogg", "/sfx/humanoid/cathurt_female.ogg" ],
-  "charGenTextLabels" : [ "Fur Color 1", "N/A", "N/A", "N/A", "Eye Color", "Fur Color 2", "N/A", "N/A", "VEL'UUISH", "Personality" ],
+  "charGenTextLabels" : [ "Fur Color 1", "N/A", "N/A", "N/A", "Eye Color", "Fur Color 2", "N/A", "N/A", "TIKNASS'UUT", "Personality" ],
   "skull" : "/humanoid/cat/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80b3ffFF?replace=31a6ffFF=5476f0FF",
   "defaultBlueprints" : {
