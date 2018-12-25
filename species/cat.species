@@ -1,9 +1,9 @@
 {
   "kind" : "cat",
 	"charCreationTooltip" : {
-	"title" : "Vel'uuish",
+	"title" : "Tiknass'uut",
 	"subTitle" : "O3",
-	"description" : "As a telepathic, telekinetic, and ancient species with a highly advanced society, they are viewed as sages and their technology is often mistaken for magic. Many overcame the tendency to be enticed to pounce, but others embrace it, not wanting to forsake their origins as a vel'uu, or cat." 
+	"description" : "An uplifted species by the Vel'uuish. This telepathic and telekinetic species follows their uplifters in their culture and use of technology. One of their favorite things to do is to make bad cat-based puns. Many have overcome the tendency to be enticed to pounce, but others embrace it, not wanting to forsake their origins as a tiknass, or cat." 
 	},
 	
 	// Didn't know what to use for subtitle, so just went with a dumb emote.
