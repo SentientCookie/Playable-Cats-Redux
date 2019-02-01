@@ -10,7 +10,7 @@
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
-		{"item" : [ "glassball", 10 ]},
+		{"item" : [ "glassball", 30 ]},
         {"item" : [ "cannedfood", 1 ]}
       ]
     }]]

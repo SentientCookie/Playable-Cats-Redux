@@ -10,7 +10,7 @@
 	// StatusEffects is supposed to give the species a bit of racial difference. 
 	// IRL, cats can run very fast, but only in very short bursts. Can't do that in-game.
 	
-  "statusEffects" : [ "runboostaugment" ],
+  
   "humanoidOverrides" : {
     "bodyFullbright" : false
   },

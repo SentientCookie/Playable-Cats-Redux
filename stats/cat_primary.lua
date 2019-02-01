@@ -5,8 +5,8 @@ local catUpdate = update
 
 function update(dt)
     if world.entitySpecies(entity.id()) == "cat" then
-        status.setStatusProperty("mouthPosition", {0.0, -0.40})
-		status.addPersistentEffects("CatPersistantEffects",{"catreducedfalldamage"});
+		status.setStatusProperty("mouthPosition", {0.0, -8.0})
+       	status.addPersistentEffects("CatPersistantEffects",{{stat = "fallDamageMultiplier", effectiveMultiplier = 0.70}})
     end
     catUpdate(dt)
 end
