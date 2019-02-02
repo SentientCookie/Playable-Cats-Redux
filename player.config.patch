@@ -1,12 +1,6 @@
 [
 { "op" : "add", "path" : "/defaultCodexes/cat", "value" : [ "protectorate1", "protectorate2", "catdiary" ] },
 { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "glassball"} },	
-
-  {
-    "op": "replace",
-    "path": "/statusControllerSettings/stats/fallDamageMultiplier/baseValue",
-    "value": 0.75
-  },
   {
     "op": "add",
     "path": "/statusControllerSettings/primaryScriptSources/-",
