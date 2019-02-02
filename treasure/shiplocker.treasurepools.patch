@@ -6,12 +6,13 @@
       "fill" : [
 	    {"item" : [ "flashlight" ]},
         {"item" : [ "torch", 10 ]},
+		{"item" : [ "glassball", 30 ]},
+		{"item" : [ "catdiary", 1 ]},
         {"item" : [ "veluusword", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "cannedfood", 1 ]},
-		{"item" : [ "glassball", 30 ]},
-        {"item" : [ "cannedfood", 1 ]}
+		{"item" : [ "cannedfood", 1 ]}
       ]
     }]]
   }
