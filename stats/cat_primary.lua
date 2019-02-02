@@ -1,12 +1,12 @@
 require "/scripts/status.lua"
 require "/scripts/util.lua"
 require "/scripts/interp.lua"
-local catUpdate = update
+local catInit = init
 
-function update(dt)
+function init()
+	catInit()
     if world.entitySpecies(entity.id()) == "cat" then
-		status.setStatusProperty("mouthPosition", {0.0, -8.0})
+		status.setStatusProperty("mouthPosition", {0, -1})
        	status.addPersistentEffects("CatPersistantEffects",{{stat = "fallDamageMultiplier", effectiveMultiplier = 0.70}})
     end
-    catUpdate(dt)
 end

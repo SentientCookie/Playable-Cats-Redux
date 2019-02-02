@@ -6,5 +6,10 @@
     "op": "replace",
     "path": "/statusControllerSettings/stats/fallDamageMultiplier/baseValue",
     "value": 0.75
+  },
+  {
+    "op": "add",
+    "path": "/statusControllerSettings/primaryScriptSources/-",
+    "value": "/stats/cat_primary.lua"
   }
 ]
