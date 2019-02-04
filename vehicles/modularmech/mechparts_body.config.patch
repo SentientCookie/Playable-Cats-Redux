@@ -1,0 +1,18 @@
+[
+	{
+		"op": "add",
+		"path": "/catproto",
+		"value": {
+			"stats": { "energy": 3, "protection": 3 },
+			"partParameters": {},
+			"partImages": {
+				"bodyBack": "body/catproto_back.png",
+				"bodyFront": "body/catproto_front.png",
+				"bodyFullbright" : "body/catproto_fullbright.png"
+			},
+			"defaultPrimaryColors": [ "b5b5b5", "808080", "555555", "303030" ],
+			"defaultSecondaryColors": [ "c0ab5e", "9b7e14", "6b5509", "342804" ],
+			"animationCustom": {}
+		}
+	}
+]

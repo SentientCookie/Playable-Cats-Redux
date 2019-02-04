@@ -35,14 +35,14 @@
       { "item" : "veluutier2chest" },
 	  
       { "item" : "veluushortsword" },
-	  { "item" : "veluusword2" },
+	  { "item" : "veluushortsword2" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
       { "item" : "tungstenhammer" },
 
 // Anvil2
-      { "item" : "veluusword3" },
+      { "item" : "veluushortsword3" },
       { "item" : "veluutier3chest" },
       { "item" : "veluutier4chest" },
 
@@ -53,13 +53,13 @@
 
 // Anvil3
 //             ACCELERATOR
-      { "item" : "veluusword4" },
       { "item" : "veluutier5achest" },
       { "item" : "veluutier6achest" },
 //             MANIPULATOR
       { "item" : "veluutier5mchest" },
       { "item" : "veluutier6mchest" },
 //             SEPERATOR
+	  { "item" : "veluushortsword4" },
       { "item" : "veluutier5schest" },
       { "item" : "veluutier6schest" },
 

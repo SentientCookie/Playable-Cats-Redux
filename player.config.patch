@@ -1,9 +1,16 @@
-[
-{ "op" : "add", "path" : "/defaultCodexes/cat", "value" : [ "protectorate1", "protectorate2", "catdiary" ] },
-{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": {"item": "glassball"} },	
-  {
-    "op": "add",
-    "path": "/statusControllerSettings/primaryScriptSources/-",
-    "value": "/stats/cat_primary.lua"
-  }
+[{
+		"op": "add",
+		"path": "/defaultCodexes/cat",
+		"value": ["protectorate1", "protectorate2", "catdiary"]
+	},
+	{
+		"op": "add",
+		"path": "/statusControllerSettings/primaryScriptSources/-",
+		"value": "/stats/cat_primary.lua"
+	},
+	{
+		"op": "add",
+		"path": "/deploymentConfig/speciesStarterMechBody/cat",
+		"value": "mechbodycatproto"
+	}
 ]
