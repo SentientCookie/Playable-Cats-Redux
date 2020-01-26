@@ -12,5 +12,12 @@
 		"op": "add",
 		"path": "/deploymentConfig/speciesStarterMechBody/cat",
 		"value": "mechbodycatproto"
+	},
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": {
+			"item": "slopedshinygold"
+		}
 	}
 ]
