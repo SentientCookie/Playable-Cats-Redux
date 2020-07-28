@@ -19,5 +19,6 @@
 		"value": {
 			"item": "slopedshinygold"
 		}
-	}
+	},
+	{ "op": "add", "path": "/deploymentConfig/scripts/-", "value": "/scripts/cat_player_init.lua" }
 ]
